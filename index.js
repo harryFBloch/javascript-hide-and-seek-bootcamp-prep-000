@@ -19,5 +19,7 @@ function increaseRankby(n) {
 function deepestChild(){
   let parrent = document.getElementsByClassName("grand-node")
   let searchQue = [parrent]
-  
+  for (let i = 0; i < searchQue.length; i++){
+    
+  }
 }
